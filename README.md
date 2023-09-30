@@ -1,4 +1,4 @@
-# AI-Internship-Task
+# IBM-SkillsBuild-AI-Intern-Task
 ### A sentiment prediction model 
 * I have selected a few classifiers algorithms for my project. My project title is Sentiment Analysis Of Restaurant Reviews.
 
