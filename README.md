@@ -1,4 +1,5 @@
 # AI-Internship-Task
+### A sentiment prediction model 
 * I have selected a few classifiers algorithms for my project. My project title is Sentiment Analysis Of Restaurant Reviews.
 
 * The first step was to process the given dataset. In data processing, I used NLTK (Natural Language Toolkit) and cleared the unwanted words in my vector. I accepted only alphabets and converted it into lower case and split it in a list. Using the PorterStemmer method stem I shorten the lookup and Normalized the sentences. Then stored those words which are not a stopword or any English punctuation.
